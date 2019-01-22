@@ -111,4 +111,6 @@ cProfile.run("main()")
         2    0.006    0.003    0.006    0.003 {built-in method builtins.print}
         1    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
     20000    0.001    0.000    0.001    0.000 {method 'random' of '_random.Random' objects}
+    
+Готово к отправке
 '''

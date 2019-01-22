@@ -58,4 +58,5 @@ Enter i=7000
         1    0.000    0.000    0.000    0.000 {built-in method builtins.print}
         1    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
 
+Готово к отправке
 '''
