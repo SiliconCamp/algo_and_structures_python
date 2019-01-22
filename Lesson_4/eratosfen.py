@@ -82,4 +82,6 @@ Enter i=90000
        17    0.000    0.000    0.000    0.000 {built-in method builtins.print}
         2    0.000    0.000    0.000    0.000 {built-in method math.sqrt}
         1    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+        
+Готово к отправке
 '''
