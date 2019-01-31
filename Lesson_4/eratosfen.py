@@ -14,6 +14,7 @@ import cProfile
 from math import sqrt
 
 
+
 def make_eratosfen(limit):
     lst = range(2, limit)
     print(int(sqrt(limit)//100), end=":")  # Прогресс-бар для больших диапазонов (снижает производительность!)
