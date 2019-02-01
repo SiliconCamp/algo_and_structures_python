@@ -91,7 +91,7 @@ def main():
     print("Time(ms) =", int((time.time()-cur_time)*1000))
 
     cur_time = time.time()
-    print("--- Bubble Sort Test ---")
+    print("--- Merge Sort Test ---")
     a = gen_array(0, 50, "float")
     print(a)
     print(merge_sort(a))
